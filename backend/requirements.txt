@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+python-multipart
+groq
+PyMuPDF
+azure-storage-blob
+chromadb
+sentence-transformers
+requests
+beautifulsoup4
+crawl4ai
+httpx
+tqdm
+numpy
+pandas
